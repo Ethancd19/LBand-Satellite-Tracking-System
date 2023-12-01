@@ -3,7 +3,7 @@
 Welcome to the central repository for the L-Band Satellite Tracking and Characterization System. This repository serves as a directory and overview for the project, guiding you to the separate components that comprise the full system: the back end and the front end.
 
 ## Back End
-The back end of our system is the powerhouse behind the operations, handling data processing, signal analysis, and other core functionalities. This crucial part of the project is managed by my partner, who will provide detailed information and updates in the back-end repository.
+The back end of our system is the powerhouse behind the operations, handling data processing, signal analysis, and other core functionalities. More detailed information and updates can be found in the back-end repository.
 
 **Repository Link:** [Back-End Repository](https://github.com/samueltv250/MDE)
 
