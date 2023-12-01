@@ -15,7 +15,7 @@ The front end of our system, designed for Linux, offers an intuitive graphical u
 
 These features represent just a portion of what our GUI can do. The interface is built to accommodate a wide range of satellite tracking and characterization tasks, with more functionalities waiting to be explored.
 
-**Repository Link:** [Front-End Repository](link-to-front-end-repo)
+**Repository Link:** [Front-End Repository](https://github.com/Ethancd19/L-Band-satellite-tracking)
 
 ## Stay Updated
 As our project evolves, this repository will be regularly updated to reflect the latest advancements and additions. Keep an eye on this space for new features, updates, and insights into our L-Band Satellite Tracking and Characterization System.
